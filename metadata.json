@@ -1,0 +1,6 @@
+{
+  "name": "Solo Leveling Hunter System",
+  "description": "Bảng trạng thái thợ săn Solo Leveling đa nền tảng PC & Mobile với tính năng đồng bộ hóa đa thiết bị qua mã ngẫu nhiên và chế độ ngoại tuyến tùy chỉnh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
