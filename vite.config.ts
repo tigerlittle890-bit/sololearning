@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/sololearning/', // <--- THÊM DÒNG NÀY VÀO ĐÂY
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
